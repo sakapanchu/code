@@ -15,12 +15,14 @@ Welcome to my Happy New Year Wish web application! This project is a simple, fes
 - **CSS**: For styling and creating the festive design.
 - **JavaScript**: For adding interactive elements and animations.
 
- Usage
+## Usage
  
 Open the index.html file in any web browser.
 Enter the name of the person you want to send New Year wishes to.
 Enjoy the personalized festive New Year wishes and interactive elements.
 
 Open index.html in your web browser to view the Happy New Year wish.
+
+## page is live 🔗https://gentle-custard-4b53c7.netlify.app
 
 ![Screenshot 2024-05-18 225349](https://github.com/sakapanchu/code/assets/117504870/da73b69d-8023-4ac9-90cd-ca746255d0da)
